@@ -1,4 +1,4 @@
-export default function About(props) {
+export default function About() {
   return (
     <section id="about">
       <div className="wrapper">

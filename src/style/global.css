@@ -291,7 +291,7 @@ a:active {
   cursor: default;
 }
 
-/***** Menu Button *****/
+/*****メニューボタン設定*****/
 .menu-button {
   position: relative;
   height: 22px;
@@ -455,7 +455,6 @@ a:active {
   }
 }
 
-/* Copy and CTA */
 #welcome-section .container {
   width: fit-content;
   position: absolute;
@@ -665,7 +664,7 @@ a:active {
   }
 }
 
-/*****-ポートフォリオ設定******/
+/*****ポートフォリオ設定*****/
 
 #projects {
   min-height: 100vh;
@@ -823,7 +822,7 @@ a:active {
   }
 }
 
-/*****問い合わせ設定*****/
+/*****コンタクト設定*****/
 
 #contact {
   background: #181d23 url(../images/envelope.svg) no-repeat right;

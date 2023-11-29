@@ -1,13 +1,10 @@
-export default function Contact(props) {
+export default function Contact() {
   return (
     <section id="contact">
       <div className="container">
         <div className="heading-wrapper">
           <div className="heading">
-            <p className="title">
-              Want to <br />
-              contact me?
-            </p>
+            <p className="title">contact me?</p>
             <p className="separator" />
             <p className="subtitle">
               Please, use the form below or send an email to {""}
