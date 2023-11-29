@@ -13,7 +13,10 @@ export default function Header() {
           </span>
         </h1>
         <div className="buttons">
-          <a href="https://github.com/SY199808/portfolio.git" className="cta">
+          <a
+            href="https://github.com/SY199808/react-portfolio.git"
+            className="cta"
+          >
             See the Code
           </a>
         </div>
